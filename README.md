@@ -1,0 +1,2 @@
+# RPGBOT
+Discord RPG Bot
